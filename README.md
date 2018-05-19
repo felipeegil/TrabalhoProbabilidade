@@ -5,6 +5,9 @@
     - Baseado nos dados obtidos, pode-se comprovar uma diferença gritante no numero de ingressantes para cada sexo no curso de Bacharelado e Tecnologia da Informaçã(BTI), mesmo com o aumento de vagas em 2015. Apresentado no notebook "estudo_gêneros.ipnyb".
     - Estudar as notas do componente curricular Fundamentos Matemáticos da Computação II, presente como disciplina obrigatória na grade de BTI, a partir de 2014, para analisar o alto índice de reprovações entre os discentes. Apresentado no notebook "estudo_notas_fmcII.ipnyb".
     - Analisar o orçamento disponível no ano de 2017 para centros acadêmicos e unidades especializadas de três áreas distintas, sendo estas: Instituto Metrópole Digital (IMD), Ciências da Saúde (CSS) e Ciências Humanas, Letras e Artes (CCHLA). Os dados utilizados foram de 2013 a 2018. Apresentado no notebook "estudos_gasto.ipnyb". 
+    
+    - Vídeo:
+        - https://youtu.be/OmP7Wz43EjQ
 
 - Componentes:
     - André de Oliveira Trigueiro - andretrigueiro.kf@gmail.com
